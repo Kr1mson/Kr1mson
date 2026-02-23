@@ -2,7 +2,7 @@
 
 
 - 📫 Reach me at: parthpassi@gmail.com.
-- 🔭 Currently working on **video similarity search using transformer models** and **efficient nearest neighbor search** with FAISS.
+- 🔭 Currently working on **RLHF/DPO** based pipeline for StackOverflow questions.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/parth-passi-a422b4234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth passi" height="30" width="40" /></a>
